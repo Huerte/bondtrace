@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+sqlmodel
+alembic
+pydantic[email]
+passlib
+bcrypt==4.0.1
+pyjwt
+pydantic-settings
+httpx
