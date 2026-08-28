@@ -1,0 +1,1 @@
+What would happen if you tried to update the query like a normal variable (by doing query = "Huerte") instead of using setQuery("Huerte")?
